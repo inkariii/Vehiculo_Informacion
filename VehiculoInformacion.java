@@ -9,6 +9,10 @@ public class VehiculoInformacion {
         System.out.print("Ingrese su nombre: ");
         String nombreUsuario = input.nextLine(); // Captura y almacena el nombre del usuario
 
+         // Solicitar la edad del usuario
+        System.out.print("Ingrese su edad: ");
+        String edadUsuario = input.nextLine(); // Captura y almacena la edad del usuario
+
         // Recoger la marca del vehículo
         System.out.print("Marca del vehículo: ");
         String marcaVehiculo = input.nextLine(); // Captura y almacena la marca
@@ -41,6 +45,7 @@ public class VehiculoInformacion {
 
         // Imprimir la información del vehículo y del usuario
         System.out.println("\nNombre del usuario: " + nombreUsuario);
+        System.out.println("\Edad del usuario: " + edadUsuario);
         System.out.println("Marca del vehículo: " + marcaVehiculo);
         System.out.println("Modelo del vehículo: " + modeloVehiculo);
         System.out.println("Cilindrada del vehículo: " + cilindradaVehiculo);
