@@ -45,7 +45,7 @@ public class VehiculoInformacion {
 
         // Imprimir la información del vehículo y del usuario
         System.out.println("\nNombre del usuario: " + nombreUsuario);
-        System.out.println("\Edad del usuario: " + edadUsuario);
+        System.out.println("\nEdad del usuario: " + edadUsuario);
         System.out.println("Marca del vehículo: " + marcaVehiculo);
         System.out.println("Modelo del vehículo: " + modeloVehiculo);
         System.out.println("Cilindrada del vehículo: " + cilindradaVehiculo);
