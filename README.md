@@ -42,6 +42,7 @@ Empresa dedicada a la distribución de productos alimenticios
 
 **Datos Ingresados:**
 - Ingrese su nombre: KARINA
+- Ingrese su edad: 28
 - Ingrese la marca: FERRARI
 - Ingrese el modelo: V2
 - Ingrese la cilindrada: 5
@@ -49,7 +50,8 @@ Empresa dedicada a la distribución de productos alimenticios
 - Ingrese la capacidad en pasajeros: 2
 
 **Resultados en pantalla:**
-- Nombre del usuario: KARINA 
+- Nombre del usuario: KARINA
+- Edad del usuario: 28
 - Marca del vehículo: FERRARI
 - Modelo del vehículo: V2
 - Cilindrada del vehículo: 5 
